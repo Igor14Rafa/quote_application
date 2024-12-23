@@ -1,6 +1,6 @@
 # Description
 
-A simple REST API project to manage stock quotes, as a technical challenge.
+A simple REST API project to manage stock quotes, as a technical challenge. The idea was to refactor [stock-manager](https://github.com/Igor14Rafa/stock-manager) and [stock-quote-manager](https://github.com/Igor14Rafa/stock-quote-manager).
 
 # StockQuote API
 
